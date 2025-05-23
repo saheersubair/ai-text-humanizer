@@ -4,8 +4,7 @@
 
 ## 🚀 Live Demo
 
-Experience the tool in action here:
-👉 [zayuvalya.github.io/AI-Text-Humanizer](https://zayuvalya.github.io/AI-Text-Humanizer/)
+Comming Soon!!!!
 
 ## 🔧 Key Features
 
