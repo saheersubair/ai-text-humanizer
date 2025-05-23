@@ -1,5 +1,3 @@
----
-
 # AI Text Humanizer
 
 **AI Text Humanizer** is a free, open-source web tool designed to transform AI-generated text into more natural, human-like language. This browser-based application ensures your content sounds authentic and engaging, making it ideal for students, content creators, and professionals seeking to refine AI-generated drafts.
@@ -57,5 +55,3 @@ We welcome contributions from the community! To contribute:
 ## 📄 License
 
 This project is licensed under the MIT License, ensuring it remains free and open for everyone to use and improve.
-
----
